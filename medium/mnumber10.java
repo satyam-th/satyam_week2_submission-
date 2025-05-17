@@ -1,7 +1,3 @@
-// create a car class with barnd model price 
-// and display the details  and  5 different objects of car class
-// display car whose price is greater than 2000000 use if condition
-
 class Car {
     private String brand;
     private String model;
